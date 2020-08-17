@@ -1,6 +1,6 @@
 ### Well, hello! 👋
 
-I am a 20-year old Full-Stack Web Developer.
+I'm a 20-year old Full-Stack Web Developer.
 <br />
 
 🌱 I'm decent at learning new and awesome technologies.
