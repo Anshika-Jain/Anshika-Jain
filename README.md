@@ -1,16 +1,14 @@
-### Hi there 👋
+### Well, hello! 👋
 
-<!--
-**Anshika-Jain/Anshika-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20-year old Full-Stack Web Developer. 
 
-Here are some ideas to get you started:
+🌱 I'm decent at learning new and awesome technologies.
+⚡ A Pre-final year Engineering student
+😄 Pronouns: she/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:
+👥 LinkedIn: [/anshika-jain](https://www.linkedin.com/in/anshika-jain-95060b17b/)
+💬 Gmail: anshikajain604@gmail.com
+
+ 
+
